@@ -1,0 +1,25 @@
+td {
+    color: green;
+    padding: 10px;
+}
+table {
+    color: gray;
+    text-align: left;
+}
+#warnaubah {
+    color :aqua;
+    margin-right: 10px;
+}
+
+.jarakkekiri {
+    margin-left: 20px;
+}
+
+form {
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
